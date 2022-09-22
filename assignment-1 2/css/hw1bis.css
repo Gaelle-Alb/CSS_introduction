@@ -1,0 +1,42 @@
+header{
+	background-color: #C0C0C0;
+  padding-bottom: 15px;
+}
+
+body{
+  background-color: #B3B3B3;
+  font-size: 120%;
+  margin: 4%;
+}
+
+section{
+	display: inline-block;
+  width: 30%;
+  float: left;
+  margin-right: 2%
+}
+
+h1{
+	color: #FFFFFF;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+h2{
+	color: #800080;
+	text-transform: uppercase;
+	background-color: #696969;
+}
+
+a{
+	color: #000000;
+	background-color: #D3D3D3;
+}
+
+img{
+	display:None
+}
+
+footer{
+  clear: both;
+}

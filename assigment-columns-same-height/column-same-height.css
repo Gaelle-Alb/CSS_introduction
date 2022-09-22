@@ -1,0 +1,22 @@
+.content-table { 
+	display: table; 
+	border-collapse: separate; 
+	border-spacing: 30px 0;
+}
+
+.content-row { 
+	display: table-row;
+}
+
+.column { 
+	display: table-cell;
+}
+
+.content1 {
+	background-color: lightblue;
+}
+
+.sidebar { 
+	width: 300px;
+	background-color: blue;
+}

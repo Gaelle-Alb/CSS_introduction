@@ -1,0 +1,11 @@
+p{
+	background-color: lightblue;
+}
+
+.static{
+	position: static;
+}
+
+.left {
+	left: 100px;
+}
